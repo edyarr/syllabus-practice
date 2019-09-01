@@ -68,3 +68,9 @@ Introduction. Course Overview
 - Rooks, Noliwe. *White Money/Black Power: The Surprising History of African American Studies and the Crisis of Race in Higher Education*. Boston: Beacon Press, 2006. pp. 1-25.
 - Du Bois, W.E.B. “The Ripe of Africa.” In: *The World and Africa*. Oxford: Oxford University Press, 2007. 28-51.
 - Mcdougal, Serie. “Africana Studies and the Science of Knowing.” *Research Methods in Africana Studies*. New York: Peter Lang, 2014. 1-30.
+
+### Week 4.
+**Guest Speaker**
+#### Readings
+- Depestre, René. “Hello and Goodbyes to Negritude.” In: Manuel Moreno Franginals. *Africa in Latin America: Essays on History, Culture, and Socialization*. New York: Holmes & Meier, 1984. 251-272.
+- Gilroy, Paul. “The Black Atlantic as a Counterculture of Modernity.” *The Black Atlantic. Modernity and Double-Consciousness*. Cambridge, MA: Harvard University Press, 1993.
